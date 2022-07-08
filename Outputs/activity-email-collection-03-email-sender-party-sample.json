@@ -1,0 +1,17 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integtrations-activity-reads/SAP_API_Caller/caller.go#L158",
+	"function": "sap-api-integrations-activity-reads/SAP_API_Caller.(*SAPAPICaller).EmailCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E05AE661EE38BA52E3F173A068B",
+			"ParentObjectID": "00163E04B6021ED2B6E362FB24C3595E",
+			"EMailID": "1",
+			"PartyID": "1000490",
+			"PartyName": "Sara Smith",
+			"EMailValue": "sarasmithdemo@gmail.com",
+			"ETag": "2013-06-22T18:07:02+09:00"
+		}
+	],
+	"time": "2022-07-08T18:11:35+09:00"
+}

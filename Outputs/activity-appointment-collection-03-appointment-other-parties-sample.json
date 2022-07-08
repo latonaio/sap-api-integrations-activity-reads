@@ -1,0 +1,20 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integtrations-activity-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-activity-reads/SAP_API_Caller.(*SAPAPICaller).AppointmentCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E7930561EEA8198AAEB62094FD6",
+			"ParentObjectID": "00163E05A2E01EE4ADBBB58D491DDB6E",
+			"AppointmentID": "2862",
+			"PartyUUID": "00163E03-8C70-1ED2-98B0-98B72BDF3816",
+			"PartyID": "1000411",
+			"RoleCategoryCode": "100",
+			"RoleCategoryCodeText": "Other Party",
+			"RoleCode": "ZGW",
+			"RoleCodeText": "New Party Role",
+			"ETag": "2019-11-12T05:54:02+09:00"
+		}
+	],
+	"time": "2022-05-21T08:24:10+09:00"
+}
